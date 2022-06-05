@@ -1,7 +1,7 @@
 # VADet
 VAD contains the source code and the dataset for vaccine attitude detection.
 
-### Vaccine Attitude Dataset
+## Vaccine Attitude Dataset
 
 The annotations are given in the form of `ID,stance,aspect_span_start:aspect_span_end,opinion_span_start:opinion_span_end,aspect_catetegory` <br />
 in the `Datasets_Raw` folder. <br />
