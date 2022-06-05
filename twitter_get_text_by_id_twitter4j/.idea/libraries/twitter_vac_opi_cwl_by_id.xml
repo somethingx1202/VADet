@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="twitter_vac_opi_cwl_by_id">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slf4j-log4j12-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/twitter4j-core-4.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/twitter4j-stream-4.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbc-twitter4j-2.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guava-29.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbc-core-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbc-twitter4j-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

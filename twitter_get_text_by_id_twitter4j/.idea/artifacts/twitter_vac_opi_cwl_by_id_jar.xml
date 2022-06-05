@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="twitter_vac_opi_cwl_by_id:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/twitter_vac_opi_cwl_by_id_jar</output-path>
+    <root id="archive" name="twitter_vac_opi_cwl_by_id.jar">
+      <element id="module-output" name="twitter_vac_opi_cwl_by_id" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-log4j12-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/twitter4j-core-4.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/twitter4j-stream-4.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hbc-twitter4j-2.2.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guava-29.0-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hbc-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hbc-twitter4j-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/log4j-1.2.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
