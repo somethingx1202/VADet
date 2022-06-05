@@ -1,5 +1,5 @@
 # VADet
-VAD contains the source code and the dataset for vaccine attitude detection.
+This repository contains the source code and the dataset for vaccine attitude detection.
 
 ## Vaccine Attitude Dataset
 
