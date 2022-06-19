@@ -76,7 +76,7 @@ class TopicDrivenMaskedLM(AlbertPreTrainedModel):
         masked_lm_loss = None
         if labels is not None:
             loss_fct = CrossEntropyLoss()
-            masked_lm_loss = loss_fct(prediction_scores.view(-1, self.config.vocab_size), labels.view(-1))
+            masked_lm_loss = loss_fct(prediction_scores.view(-1, self.config.vocab_size), labels.reshape(-1))
 
         if not return_dict:
             output = (prediction_scores,) + outputs[2:]
