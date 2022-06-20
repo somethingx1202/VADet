@@ -34,5 +34,5 @@ To perform supervised training,
 2.  Move the saved config of the model (i.e., the `config.json` file) from the `../datasets/mlm-vad` of **VAD unsupervised training** to the `./datasets/albertconfigs/vadlm-albert-large-v2/vadlm-albert-large-v2` folder. For your convenience a saved config.json is ready-to-use in the `./datasets/albertconfigs/vadlm-albert-large-v2/vadlm-albert-large-v2` folder.
 3.  `cd src` and run `vadtrain_eval_predict.py` for training and testing.
     1.  Training: Uncomment line 1559-1578 of `vadtrain_eval_predict.py` and run the file. Checkpoints will be saved in `./datasets/vadcheckpoints/5-fold-211103/vadlm-albert-large-v2/`
-    2.  Testing: Uncomment line 1580-1608 of `vadtrain_eval_predict.py` and run the file. The prediction will be output in same directory. A saved model can be downloaded via this link. You can place the save model in `./datasets/vadcheckpoints/5-fold-211103/vadlm-albert-large-v2/` for a quick start.
+    2.  Testing: Uncomment line 1580-1608 of `vadtrain_eval_predict.py` and run the file. The prediction will be output in same directory. A saved model can be downloaded via this [link](https://vadsupsave.s3.eu-west-2.amazonaws.com/vadsupervisedsavedmodels.zip). You can place the save model in `./datasets/vadcheckpoints/5-fold-211103/vadlm-albert-large-v2/` for a quick start.
 
