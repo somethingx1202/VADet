@@ -1,4 +1,4 @@
-ID,text,stance,aspect_span,opinion_span,aspect_catetegory
+ID,stance,aspect_span,opinion_span,aspect_catetegory
 1368404195661910020,positive,31:62,22:151,4
 1368362517001498625,negative,0:164,0:216,3
 1373543048223858693,negative,50:151,17:171,3
