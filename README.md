@@ -15,7 +15,7 @@ To obtain tweet text,
 
 ## VAD unsupervised training
 `cd VADMlmFineTuning`<br />
-VADtransformer is firstly trained unsupervised and saved to `../datasets/mlm-vad`. 
+VADtransformer is firstly trained unsupervised. The model will be saved to `../datasets/mlm-vad`. 
 
 To perform unsupervised training,
 
