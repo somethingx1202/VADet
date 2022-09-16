@@ -89,6 +89,7 @@ public class TwitterRESTTweetIDlistCrawler {
 
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true).setJSONStoreEnabled(true);
+		cb.setTweetModeExtended(true);
 
 		TwitterFactory tf = new TwitterFactory(cb.build());
 
